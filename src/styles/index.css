@@ -135,6 +135,14 @@ img {
   margin-bottom: 1.25rem;    
   font-weight: 400;
 }
+
+.card-container{
+  display: flex;
+  gap: 1rem;
+  justify-content: space-around;
+}
+
+
 .made_by{
   font-weight: 400;
   font-size: 13px;
