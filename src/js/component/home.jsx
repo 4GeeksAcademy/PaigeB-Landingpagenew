@@ -14,9 +14,9 @@ const Home = () => {
 			<Navbar/>
 			<Jumbotron/>
 			<div class="card-container">
-				<Cards/>
-				<Cards/>
-				<Cards/>
+				<Cards title="First Title" bio="I am learning how to use props"/>
+				<Cards title="Second Title" bio="Props are super cool!"/>
+				<Cards title="Third Title" bio="My cards are dynamic now"/>
 			</div>
 			<Footer/>
 		</div>
